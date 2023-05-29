@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Projek Akhir</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">LOGOUT</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="ipaddres">
+        IP address merupakan singkatan dari Internet Protokol (IP) Address atau
+dalam Bahasa Indonesia berarti alamat internet protokol. IP Address adalah
+sebuah alamat sebuah host yang terhubung dalam jaringan internet. bisa juga
+dalam jaringan Local Area Network (LAN). IP address merupakan bilangan
+biner 32 bit yang dipisahkan oleh tanda pemisah berupa tanda titik disetiap 8
+bitnya. Tiap 8 bit ini disebut dengan oktet.
+
+</string>
+
+
+    <string name="rating">A RatingBar is an extension of SeekBar and ProgressBar that shows a rating in stars.
+        The user can touch/drag or use arrow keys to set the rating when using the default size RatingBar.
+        The smaller RatingBar style ( R.attr.ratingBarStyleSmall) and the larger indicator-only style
+        (R.attr.ratingBarStyleIndicator) do not support user interaction and should only be used as indicators.
+        When using a RatingBar that supports user interaction, placing widgets to the left or right of the
+        RatingBar is discouraged.</string>
+
+    <string name="jaringanwireless">
+        Jaringan wireless adalah jaringan yang mengkoneksikan dua
+komputer atau lebih menggunakan sinyal radio, cocok untuk berbagi pakai
+file, printer, atau akses Internet.
+
+    Jaringan Wireless LAN adalah jaringan LAN yang di bangun dengan
+menggunakan media transmisi Gelombang Radio. dimana setiap Host harus
+di lengkapi dengan Adapter wireless ( alat yang berfungsi untuk menerima
+dan mengrim informasi melalui gelombang radio.
+
+        </string>
+    <string name="konsepjaringanwireless">
+    Teknologi wireless LAN menjadi sangat popular di banyak aplikasi.
+Setelah evaluasi terhadap teknologi tersebut dilakukan, menjadikan para
+pengguna merasa puas dan meyakini realibility teknologi ini sudah siap untuk
+digunakan dalam skala luas dan komplek pada jaringan tanpa kabel.
+
+    Bila Anda ingin mengkoneksikan dua komputer atau lebih di lokasi
+yang sukar atau tidak mungkin untuk memasang kabel jaringan, sebuah
+jaringan wireless (tanpa kabel) mungkin cocok untuk diterapkan. Setiap PC
+pada jaringan wireless dilengkapi dengan sebuah radio tranceiver, atau
+biasanya disebut adapter atau kartu wireless LAN, yang akan mengirim dan
+menerima sinyal radio dari dan ke PC lain dalam jaringan. Anda akan
+mendapatkan banyak adapter dengan konfigurasi internal dan eksternal, baik
+untuk PC desktop maupun notebook.
+        </string>
+    <string name="jenismikrotik">
+
+    1. Mikrotik RouterOS
+        MikroTik RouterOS yang berbentuk software yang dapat didownload di www.mikrotik.com. Dapat diinstal pada kompuetr rumahan
+(PC). Mikrotik RouterOS adalah sebuah sofware yang berfungsi mengubah
+PC (komputer) menjadi sebuah router. Mikrotik RouterOS layaknya IOS
+cisco yang diinstall di dalam Router Cisco, hanya saja IOS cisco tidak bisa di
+install di dalam komputer kecuali menggunakan emulator seperti GNS3 dan
+dynamips. Pada dasarnya RouterOS merupakan sistem operasi Mikrotik
+RouterBOARD yang berbasis Kernel Linux v2.6.
+
+        2. Mikrotik RouterBOARD
+        MikroTik RouterBoard yaitu BUILT-IN Hardware Mikrotik dalam
+bentuk perangkat keras yang khusus dikemas dalam board router yang
+didalamnya sudah terinstal MikroTik RouterOS.
+        Selain bisa di install di dalam PC, mikrotik RouterOS juga bisa diinstall
+pada sebuah hardware khusus yang bernama RouterBOARD.
+        </string>
+
+    <string name="sejarahmikrotik">
+    /nMikroTik adalah sebuah perusahaan kecil berkantor pusat di Riga,
+Ibukota Latvia, sebuah negara pecahan Uni Soviet yang bersebelahan dengan
+Rusia. Mikrotik merupakan produsen software dan hardware router MikroTik.
+Dengan mikrotik maka teknologi internet menjadi lebih cepat, handal dan
+terjangkau untuk kalangan pengguna yang lebih luas.
+        Pembentukan MikroTik diprakarsai oleh John Trully dan Arnis Riekstins.
+John Trully adalah seorang berkewarganegaraan Amerika yang berimigrasi ke
+Latvia. Di Latvia ia bejumpa dengan Arnis, Seorang darjana Fisika dan
+Mekanik sekitar tahun 1995.
+        John dan Arnis mulai me-routing dunia pada tahun 1996 (misi MikroTik
+adalah me- routing seluruh dunia). Mulai dengan sistem Linux dan MS-DOS yang dikombinasikan dengan teknologi Wireless-LAN (WLAN) Aeronet
+berkecepatan 2 Mbps di Moldova, negara tetangga Latvia, baru kemudian
+melayani lima pelanggannya di Latvia.
+
+        </string>
+
+
+    <string name="mikrotik">
+        Mikrotik OS merupakan sistem operasi khusus yang digunakan untuk memanajemen network. Kata
+Mikrotik merujuk pada bahasa Latvia tempat OS ini berasal, yang berarti network kecil. Dengan visi
+memudahkan manajemen networking, Mikrotik Router OS menawarkan kemudahan implementasi,
+kemudahan konfigurasi dan kemudahan dalam integrasi dengan perangkat lain.
+    Mikrotik hadir dalam dua jenis, yaitu Mikrotik Router OS (ROS) dan Mikrotik RouterBoard. Mikrotik
+Routerboard merupakan hardware spesifik yang telah ditanamkan sistem operasi mikrotik untuk dijadikan
+router.
+   Mikrotik menyediakan tools untuk mempermudah memanajemen perangkat atau os nya. Tools yang
+umum digunakan adalah Winbox. Tool ini berbasis GUI yang dikembangkan untuk system operasi windows.
+Winbox menyediakan shortcut untuk membantu memanajemen perangkat mikrotik.
+    </string>
+
+    <string name="DasarJaringan">Jaringan komputer adalah dua komputer atau lebih yang saling dihubungkan,
+sehingga antar komputer dapat saling berkomunikasi, berbagi files/data, serta
+berbagai fasilitas (printer, scanner) dengan menggunakan media tertentu ( kabel,
+fiber optic, gelombang radio, dsb). Ada juga yang mendefinisikan bahwa
+jaringan komputer adalah sebuah kumpulan komputer, printer dan peralatan
+lainnya yang terhubung.
+        Informasi dan data bergerak melalui kabel-kabel sehingga memungkinkan
+pengguna jaringan komputer dapat saling bertukar dokumen dan data, mencetak
+pada printer yang sama dan bersama sama menggunakan hardware atau software
+yang terhubung dengan jaringan.
+         Sebuah jaringan biasanya terdiri dari 2 atau lebih
+komputer yang saling berhubungan diantara satu dengan yang lain, dan saling
+berbagi sumber daya misalnya CDROM, Printer, pertukaran file, atau
+memungkinkan untuk saling berkomunikasi secara elektronik.
+    </string>
+
+
+    <string name="pastaIngredients">Faldi</string>
+
+    <string name="pastaDesc"></string>
+    //maggi
+    <string name="maggiIngredients">Yuli</string>
+    <string name="maggieDesc"></string>
+    //cake
+    <string name="cakeIngredients">Rapiyah</string>
+    <string name="cakeDesc"></string>
+    //pancake
+    <string name="pancakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="pancakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pizza
+    <string name="pizzaIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="pizzaDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //burgers
+    <string name="burgerIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="burgerDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //fries
+    <string name="friesIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="friesDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+
+</resources>
